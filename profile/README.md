@@ -1,7 +1,8 @@
 ## Welcome   👋
-
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdecentranetwork.net%2F&psig=AOvVaw25RZc_sjGUZrWtvbq8a5pi&ust=1673883054175000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCg9bjyyfwCFQAAAAAdAAAAABAE)
-
+<p align="center">
+  <a href="https://github.com/Decentra-Network/Decentra-Network">
+    <img src="https://user-images.githubusercontent.com/41792982/114188349-b7cd0700-9951-11eb-84ea-3b31495b5635.png" alt="Logo" width="150" height="206">
+  </a>
     
 # Decentra Network 
 
@@ -9,7 +10,7 @@ what is Decentra Network?
 
 Decentra Network is a completely secure, non-hackable, non-deletable, and non-censorable fast application network for privacy-conscious internet users.
 
-
+s
 
 ## Our Concept
 
