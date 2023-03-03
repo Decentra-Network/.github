@@ -1,19 +1,17 @@
 ## Welcome to the Naruno  👋
 <p align="center">
-  <a href="https://decentranetwork.net/">
+  <a href="https://naruno.org/">
     <img src="https://naruno.org/wp-content/uploads/2023/03/transparant-logo-1.png" alt="Logo" width="150" height="150">
   </a>
     
 
 ## Naruno
 
-Naruno is a completely secure, non-hackable, non-deletable, and non-censorable fast application network for privacy-conscious internet users.
-
-Naruno is written in PEP8 format and only needs dependent libraries for GUI panel. Naruno that designed with a focus on the community on the Github platform, In addition, Stability, Functional and Unit tests of all systems are ready and automated. It also has various structures for automatic setup of test environments. It is fully compatible with Git code management system and Agile mindset.
+Naruno is an lightning-fast, secure, and scalable blockchain that able to creating transaction proofs and verification via raw data and timestamp. We remove the archive nodes and lazy web3 integrations. With Naruno everyone can get the proof (5-10MB) of their transactions via their nodes and after everyone can use in another node for verification the raw data and timestamp. Also you can integrate your web3 applications with 4 code lines (just python for now) via our remote app system.
 
 <br>
 
-[GitHub](https://github.com/Naruno/Naruno) | [Green Paper](https://decentranetwork.net/green-paper/) | [Core Documents ](https://decentranetwork.net/green-paper/)
+[GitHub](https://github.com/Naruno/Naruno) | [Documents](https://docs.naruno.org/)
 
 
 ## Blockchain Lab
