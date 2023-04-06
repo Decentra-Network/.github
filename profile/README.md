@@ -1,7 +1,7 @@
 ## Welcome to the Naruno  👋
 <p align="center">
   <a href="https://naruno.org/">
-    <img src="https://naruno.org/wp-content/uploads/2023/03/transparant-logo-1.png" alt="Logo" width="150" height="150">
+    <img src="https://naruno.org/goaxisar/2023/03/transparant-logo-1.png" alt="Logo" width="150" height="150">
   </a>
     
 
